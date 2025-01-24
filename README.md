@@ -32,7 +32,7 @@ A personal portfolio website showcasing my skills, projects, and achievements as
 ---
 
 ## 🚀 Live Demo
-[View Portfolio Website]([https://your-deployment-link](https://deepikamahanthi97.github.io/Deepika-Portfolio/))
+[View Portfolio Website](https://deepikamahanthi97.github.io/Deepika-Portfolio/))
 
 ---
 
