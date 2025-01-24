@@ -38,18 +38,18 @@ A personal portfolio website showcasing my skills, projects, and achievements as
 
 ## 📂 Folder Structure
 project-folder/
+├── index.html
 ├── css/
-│   └── style.css           # Custom styles
+│   └── style.css
 ├── js/
-│   ├── script.js           # Custom JavaScript for interactivity
-│   └── contact.js          # EmailJS integration for the contact form
-├── Images/
-│   └── [Your Images]       # All images used in the portfolio
+│   ├── script.js
+│   └── contact.js
+├── images/
+│   └── [your-image-files]
 ├── assets/
-│   └── D-Resume-FD.pdf     # Downloadable resume
-├── index.html              # Main HTML file
-└── README.md               
-
+│   └── D-Resume-FD.pdf
+└── README.md
+         
 
 ---
 
