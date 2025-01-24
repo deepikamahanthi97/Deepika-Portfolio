@@ -37,7 +37,7 @@ A personal portfolio website showcasing my skills, projects, and achievements as
 ---
 
 ## 📂 Folder Structure
-portfolio-folder/
+Personal Portfolio Website/
 ├── index.html
 ├── css/
 │   └── style.css
