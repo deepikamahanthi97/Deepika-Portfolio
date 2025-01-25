@@ -59,7 +59,7 @@ window.onscroll = () => {
    /*======================================= typed js (typescript - I am ' ') ===============================*/
 
   const typed = new Typed('.multiple-text', {
-    strings: ['Full Stack Developer', 'Data Analyst', 'Frontend Developer'],
+    strings: ['Full Stack Developer', 'Software Engineer', 'Data Analyst'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
@@ -67,35 +67,6 @@ window.onscroll = () => {
   });
 
 
-// =============================== Email JS ===================================== //
-
-// Attach a submit event listener to the contact form
-// document.addEventListener("DOMContentLoaded", function () {
-//    // Initialize EmailJS with your public key
-//    emailjs.init("xrIbfWE2MgzAX3kQ-");
- 
-//    const contactForm = document.getElementById("contact-form");
- 
-//    contactForm.addEventListener("submit", function (event) {
-//      event.preventDefault(); // Prevent default form submission behavior
- 
-//      // Send form data to EmailJS
-//      emailjs
-//        .sendForm("service_vouk90j", "template_c0muxfx", this)
-//        .then(
-//          function () {
-//            alert("Message sent successfully!");
-//            contactForm.reset(); // Clear the form after submission
-//          },
-//          function (error) {
-//            alert("Failed to send message. Please try again.");
-//            console.error("Error:", error);
-//          }
-//        );
-//    });
-//  });
- 
- 
  
 
 
