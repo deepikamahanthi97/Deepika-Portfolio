@@ -45,14 +45,7 @@ Personal Portfolio Website/
 │   ├── script.js
 │   └── contact.js
 ├── images/
-│   └── ![flask_more_adjusted_exposure](https://github.com/user-attachments/assets/41c9be01-aeb4-441c-9edf-57ca39b14363)
-    └── ![img-1_reduced_height](https://github.com/user-attachments/assets/d54e83b7-e70f-4885-885d-05d2f5ff3d12)
-    └── ![undraw_programmer_raqr_no_bg](https://github.com/user-attachments/assets/7adb5b9f-c96a-4f10-aa97-f00b3705c216)
-    └── ![Updated_Accenture_Certificate_With_Theme](https://github.com/user-attachments/assets/5a651cc3-0278-4992-9268-3c55bb36d366)
-    └── ![Updated_BIDA_Certificate_With_Theme](https://github.com/user-attachments/assets/3c6b4c6b-f730-4e3d-91c7-af241fbcf76e)
-    └── ![Updated_Python_Certificate_With_Theme](https://github.com/user-attachments/assets/9bb57608-c6ac-447b-9e06-a08a53922655)
-    └── ![Updated_SEO_Certificate_With_Theme](https://github.com/user-attachments/assets/107b9185-f0a0-4d79-9016-99af161869c0)
-    └── ![Updated_Wells_Fargo_Certificate](https://github.com/user-attachments/assets/5aed1eaa-f350-42a9-a03c-ce4089afff95)
+│   
 ├── assets/
 │   └── D-Resume-FD.pdf
 └── README.md
