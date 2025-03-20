@@ -234,7 +234,6 @@ span {
 .education-container {
    display: flex;
    justify-content: center;
-   align-items: center;
    flex-wrap: wrap;
    gap: 2rem;
    margin-top: 8rem;
@@ -387,7 +386,7 @@ span {
    align-items: center;
    flex-wrap: wrap;
    padding: 2rem 9%;
-   background: var(--bg-color);
+   background: var(--second-bg-color);
 }
 
 .footer-text {

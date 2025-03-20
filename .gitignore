@@ -128,3 +128,24 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Ignore system files
+AppData/
+ntuser.*
+.vscode/
+node_modules/
+*.log
+
+# Ignore cache and temporary files
+*.tmp
+*.temp
+*.bak
+
+# Ignore OS-specific files
+Thumbs.db
+.DS_Store
+
+# Ignore build and dist folders (if applicable)
+/build
+/dist
+

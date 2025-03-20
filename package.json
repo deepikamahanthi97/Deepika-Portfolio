@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "axios": "^1.7.9",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-scripts": "^5.0.1"
+  },
+  "name": "personal-portfolio-website",
+  "version": "1.0.0",
+  "description": "A personal portfolio website showcasing my skills, projects, and achievements as a Full Stack Development enthusiast. Features interactive sections highlighting my expertise in both Frontend and Backend development, along with contact information for collaboration and opportunities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
