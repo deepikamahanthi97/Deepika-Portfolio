@@ -194,13 +194,14 @@ span {
   margin-bottom: 5rem;
 }
 
+
 .services-container {
    display: flex;
    justify-content: center;
-   align-items: center;
+   align-items: stretch;
    flex-wrap: wrap;
-   gap: 2rem;
-   margin-top: 5rem;
+   gap: 1.5rem;
+   margin-top: 3rem;
 }
 
 .services-container .services-box {
@@ -218,7 +219,7 @@ span {
    transform: scale(1.02);
 }
 .services-box i {
-   font-size: 7rem;
+   font-size: 6rem;
    color: var(--main-color);
 }
 
