@@ -1,73 +1,28 @@
-# Deepika-Portfolio
-A personal portfolio website showcasing my skills, projects, and achievements as a Full Stack Development enthusiast. Features interactive sections highlighting my expertise in both Frontend and Backend development, along with contact information for collaboration and opportunities.
+# 💼 Deepika Mahanthi's Portfolio
+
+Welcome to my personal portfolio website! This project showcases my background, skills, certifications, and ways to connect with me. It’s designed to reflect both my technical knowledge and creative side as a developer.
+
+🔗 **Live Site**: [deepikamahanthi97.github.io/Deepika-Portfolio](https://deepikamahanthi97.github.io/Deepika-Portfolio/#)
 
 ---
 
-## 🌟 Features
-- **Interactive Sections**:
-  - **Home**: Introduction, social media, and resume download.
-  - **About Me**: Overview of skills and experience.
-  - **Skills**: Proficiency in technologies.
-  - **Education**: Academic achievements.
-  - **Certificates**: Showcase of certifications.
-  - **Contact**: Integrated EmailJS functionality.
-
-- **Responsive Design**
-- **Animations and Effects**
-- **Custom EmailJS Integration**
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=deepikamahanthi97&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=deepikamahanthi97&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepikamahanthi97&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=deepikamahanthi97&icon=7&color=11)](https://visitcount.itsvg.in)
 
-## 🛠️ Technologies Used
-- **Frontend Development**: HTML5, CSS3, JavaScript, etc.
-- **Tools**: Git, GitHub, MongoDB, etc.
-- **Libraries/APIs**: EmailJS, ScrollReveal, Typed.js, etc.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Getting Started
 
----
+To run the portfolio locally:
 
-## 📜 Certificates Highlighted
-- **Certificate 1**: [Link](#)
-- **Certificate 2**: [Link](#)
-
----
-
-## 🚀 Live Demo
-[View Portfolio Website](https://deepikamahanthi97.github.io/Deepika-Portfolio/))
-
----
-
-## 📂 Folder Structure
-Personal Portfolio Website/
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   ├── script.js
-│   └── contact.js
-├── images/
-│   └── ![flask_more_adjusted_exposure](https://github.com/user-attachments/assets/41c9be01-aeb4-441c-9edf-57ca39b14363)
-    └── ![img-1_reduced_height](https://github.com/user-attachments/assets/d54e83b7-e70f-4885-885d-05d2f5ff3d12)
-    └── ![undraw_programmer_raqr_no_bg](https://github.com/user-attachments/assets/7adb5b9f-c96a-4f10-aa97-f00b3705c216)
-    └── ![Updated_Accenture_Certificate_With_Theme](https://github.com/user-attachments/assets/5a651cc3-0278-4992-9268-3c55bb36d366)
-    └── ![Updated_BIDA_Certificate_With_Theme](https://github.com/user-attachments/assets/3c6b4c6b-f730-4e3d-91c7-af241fbcf76e)
-    └── ![Updated_Python_Certificate_With_Theme](https://github.com/user-attachments/assets/9bb57608-c6ac-447b-9e06-a08a53922655)
-    └── ![Updated_SEO_Certificate_With_Theme](https://github.com/user-attachments/assets/107b9185-f0a0-4d79-9016-99af161869c0)
-    └── ![Updated_Wells_Fargo_Certificate](https://github.com/user-attachments/assets/5aed1eaa-f350-42a9-a03c-ce4089afff95)
-├── assets/
-│   └── D-Resume-FD.pdf
-└── README.md
-         
-
----
-
-## 📩 Contact
-Feel free to reach out for collaboration or inquiries:
-- **Email**: [deepikamahanthi97@gmail.com](mailto:deepikamahanthi97@gmail.com)
-- **LinkedIn**: [linkedin.com/in/deepika-mahanthi97](https://www.linkedin.com/in/deepika-mahanthi97-b1244b199/)
-- **GitHub**: [github.com/deepikamahanthi97](https://github.com/deepikamahanthi97)
-
----
-
-## 📄 License
-This project is licensed under the [MIT License](LICENSE) - feel free to use and customize it.
-
+```bash
+git clone https://github.com/deepikamahanthi97/Deepika-Portfolio.git
+cd Deepika-Portfolio
+npm install
+npm start
